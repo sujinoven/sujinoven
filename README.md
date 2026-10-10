@@ -27,7 +27,7 @@ I also gained hands-on machine learning experience through an **ML Engineering i
 
 💡 **My focus:** Building practical AI solutions, strengthening ML engineering skills, and continuously learning emerging technologies.
 
-🚀 **Career Goal:** Contribute to real-world AI/ML products and grow into a skilled Machine Learning Engineer.
+🚀 **Career Goal:** Contribute to real-world AI/ML products and grow into a skilled Machine Learning AI Engineer.
 
 ---
 
