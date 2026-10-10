@@ -3,7 +3,7 @@
 
 # Hi, I'm Sujinoven J 👋
 
-### Aspiring AI/ML Engineer | Python Developer | Generative AI Enthusiast
+### AI/ML Engineer | Python Developer | Generative AI Enthusiast
 
 **From Enterprise IT & Automation to Building Intelligent AI Solutions**
 
