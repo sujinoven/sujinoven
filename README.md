@@ -19,7 +19,7 @@
 
 I'm an aspiring **AI/ML Engineer** with a background in enterprise IT, Python development, and automation, currently transitioning into **Machine Learning, Deep Learning, NLP, and Generative AI**.
 
-I bring approximately **4.6 years of professional experience at Wipro Technologies**, where I worked in Microsoft 365 Administration and later as a Junior Python Developer.
+I bring approximately **4+ years of professional experience at Wipro Technologies**, where I worked in Microsoft 365 Administration and later as a Junior Python Developer.
 
 I also gained hands-on machine learning experience through an **ML Engineering internship at Flyrank AI**, working on data preprocessing, feature engineering, predictive modeling, and model evaluation.
 
