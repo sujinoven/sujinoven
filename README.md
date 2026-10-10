@@ -62,10 +62,14 @@ I also gained hands-on machine learning experience through an **ML Engineering i
 ### 🧠 Machine Learning Engineering Intern
 **Flyrank AI | Jul 2026 – Sep 2026**
 
-- Worked on data cleaning, feature engineering, and exploratory data analysis.
-- Developed and evaluated predictive ML models.
-- Built a Random Forest-based Content Refresh Opportunity Scoring System.
-- Applied model validation techniques to identify leakage risks and improve reliability.
+Content Refresh Opportunity Scoring System (FlyRank ML Internship)
+- Developed a machine learning-based content prioritization system to identify and rank web pages that could benefit 
+from SEO content refreshes.
+- Aimed to improve editorial decision-making by replacing manual content selection with a data-driven approach using 
+SEO visibility, user engagement, and content freshness.
+- Trained a Random Forest classifier using visibility, engagement, and content-age features, prevented data leakage by 
+excluding target-derived and future-window information, and benchmarked performance against a heuristic baseline 
+to generate a ranked editorial review queue.
 
 ### 🐍 Junior Python Developer
 **Wipro Technologies | Dec 2025 – Jun 2026**
