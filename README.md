@@ -100,21 +100,6 @@ I also completed a **Machine Learning Engineering internship at Flyrank AI**, ga
 
 ---
 
-## 🌟 Featured ML Project
-
-### Content Refresh Opportunity Scoring System
-
-A Machine Learning project developed during my **Flyrank AI internship** to identify and prioritize web pages that could benefit from SEO content updates.
-
-**Key Highlights:**
-- Data preprocessing and feature engineering
-- Random Forest classification
-- Model evaluation and data leakage prevention
-- Content opportunity ranking
-
-🔗 **[Explore the Project](https://github.com/sujinoven/flyrank_internship)**
-
----
 
 ## 📈 GitHub Stats
 
