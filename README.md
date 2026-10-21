@@ -1,164 +1,86 @@
-
-<div align="center">
-
 # Hi, I'm Sujinoven J 👋
 
-### AI/ML Engineer | Python Developer | Generative AI Enthusiast
+### Aspiring AI/ML Engineer | Python Developer | Generative AI Enthusiast
 
-**From Enterprise IT & Automation to Building Intelligent AI Solutions**
+I'm a technology professional with **4+ years of experience at Wipro Technologies**, transitioning from enterprise IT and Python development into **Machine Learning, Deep Learning, and Generative AI**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujinoven)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sujinoven)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sujinoven02@gmail.com)
+I enjoy solving real-world problems through data, automation, and intelligent systems. My current focus is building practical AI/ML projects and developing the skills needed to create production-ready AI applications.
 
-</div>
+📍 India | 🎓 M.Tech, Computing Systems & Infrastructure — BITS Pilani
 
----
-
-## 👨‍💻 About Me
-
-I'm an aspiring **AI/ML Engineer** with a background in enterprise IT, Python development, and automation, currently transitioning into **Machine Learning, Deep Learning, NLP, and Generative AI**.
-
-I bring approximately **4+ years of professional experience at Wipro Technologies**, where I worked in Microsoft 365 Administration and later as a Junior Python Developer.
-
-I also gained hands-on machine learning experience through an **ML Engineering internship at Flyrank AI**, working on data preprocessing, feature engineering, predictive modeling, and model evaluation.
-
-🎓 **Education:** M.Tech in Computing Systems and Infrastructure — BITS Pilani
-
-💡 **My focus:** Building practical AI solutions, strengthening ML engineering skills, and continuously learning emerging technologies.
-
-🚀 **Career Goal:** Contribute to real-world AI/ML products and grow into a skilled Machine Learning AI Engineer.
+[LinkedIn](https://linkedin.com/in/sujinoven) • [GitHub](https://github.com/sujinoven) • [Email](mailto\:sujinoven02@gmail.com)
 
 ---
 
-## 🔭 What I'm Working On
+## 🚀 What I'm Working On
 
-- 🤖 Building Machine Learning and Deep Learning projects
-- 🧠 Exploring LLMs, RAG, prompt engineering, and AI agents
-- 📚 Developing NLP applications for text analysis, summarization, and resume screening
-- 🔗 Learning LangChain, LangGraph, and vector databases
-- 📊 Strengthening Python, SQL, feature engineering, and model evaluation skills
-- ⚙️ Exploring model deployment and production ML workflows
+- Building end-to-end Machine Learning and Deep Learning projects
+- Exploring **LLMs, RAG, AI Agents, and Generative AI**
+- Developing NLP and computer vision applications
+- Learning LangChain, LangGraph, and vector databases
+- Improving model deployment and ML engineering skills
 
----
+## 🛠️ Tech Stack
 
-## 🛠️ Technical Skills
+| Area                 | Technologies                                     |
+| -------------------- | ------------------------------------------------ |
+| **Languages**        | Python, SQL                                      |
+| **Data Analysis**    | Pandas, NumPy, Matplotlib, Seaborn               |
+| **Machine Learning** | Scikit-learn, XGBoost, Random Forest             |
+| **Deep Learning**    | TensorFlow, Keras, PyTorch                       |
+| **NLP & GenAI**      | Hugging Face, Transformers, LangChain, LangGraph |
+| **Tools & Cloud**    | Git, GitHub, Azure, AWS, ChromaDB                |
+| **Automation**       | PowerShell, Python Automation                    |
 
-| Category | Technologies |
-|----------|-------------|
-| **Programming** | Python, SQL |
-| **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Machine Learning** | Scikit-learn, Random Forest, XGBoost, Classification, Clustering |
-| **Deep Learning** | TensorFlow, Keras, PyTorch |
-| **NLP & GenAI** | Hugging Face, Transformers, LangChain, LangGraph |
-| **Vector Databases** | ChromaDB |
-| **Cloud & Tools** | Azure, AWS, Git, GitHub |
-| **Enterprise IT** | Microsoft 365, Entra ID, PowerShell |
+## 💼 Professional Experience
 
----
+**Machine Learning Engineering Intern — Flyrank AI**
+*Jul 2026 – Sep 2026*
 
-## 💼 Professional Journey
+- Developed a content refresh opportunity scoring system using Machine Learning.
+- Built a Random Forest classifier using SEO visibility, engagement, and content freshness features.
+- Applied feature engineering, model evaluation, and data leakage prevention.
+- Generated ranked recommendations to support content optimization decisions.
 
-### 🧠 Machine Learning Engineering Intern
-**Flyrank AI | Jul 2026 – Sep 2026**
+**Junior Python Developer — Wipro Technologies**
+*Dec 2025 – Jun 2026*
 
-Content Refresh Opportunity Scoring System (FlyRank ML Internship)
-- Developed a machine learning-based content prioritization system to identify and rank web pages that could benefit 
-from SEO content refreshes.
-- Aimed to improve editorial decision-making by replacing manual content selection with a data-driven approach using 
-SEO visibility, user engagement, and content freshness.
-- Trained a Random Forest classifier using visibility, engagement, and content-age features, prevented data leakage by 
-excluding target-derived and future-window information, and benchmarked performance against a heuristic baseline 
-to generate a ranked editorial review queue.
+- Developed Python scripts for automation and data processing.
+- Worked with SQL, debugging, and data validation.
 
-### 🐍 Junior Python Developer
-**Wipro Technologies | Dec 2025 – Jun 2026**
+**Microsoft 365 Administrator — Wipro Technologies**
+*Dec 2021 – Nov 2025*
 
-- Developed Python automation scripts and data-processing workflows.
-- Worked with SQL databases, debugging, and data validation.
-- Used Git for version control and collaborated on development activities.
+- Managed enterprise Microsoft 365 environments.
+- Automated administrative workflows using PowerShell.
+- Worked with Exchange Online, SharePoint, Teams, and Entra ID.
 
-### ☁️ Microsoft 365 Administrator
-**Wipro Technologies | Dec 2021 – Nov 2025**
+## 📂 Projects & Repositories
 
-- Managed Microsoft 365 enterprise environments.
-- Worked with Exchange Online, SharePoint, Teams, OneDrive, and Entra ID.
-- Automated administrative tasks using PowerShell.
-- Supported Microsoft 365 Copilot adoption and enterprise integrations.
+| Repository                                                               | Description                                            |
+| ------------------------------------------------------------------------ | ------------------------------------------------------ |
+| [Flyrank ML Internship](https://github.com/sujinoven/flyrank_internship) | Content prioritization using Machine Learning          |
+| [GenAI & Agentic AI](https://github.com/sujinoven/GenAI-Agentic-AI)      | RAG, LLMs, AI agents, and tool calling                 |
+| [NLP Projects](https://github.com/sujinoven/NLP_Projects)                | Sentiment analysis, summarization, and semantic search |
+| [Deep Learning](https://github.com/sujinoven/Deep_Learning)              | ANN, CNN, transfer learning, and object detection      |
+| [Machine Learning](https://github.com/sujinoven/Machine_Learning)        | Supervised and unsupervised learning algorithms        |
+| [Python Learning](https://github.com/sujinoven/Python_Learning)          | Python, OOP, data analysis, and visualization          |
+| [SQL](https://github.com/sujinoven/SQL)                                  | Database queries, joins, and analytical SQL            |
 
----
+## 📊 GitHub Stats
 
-## 🚀 Featured Projects & Repositories
 
-| Repository | Focus |
-|------------|-------|
-| [Flyrank Internship](https://github.com/sujinoven/flyrank_internship) | ML experiments, predictive modeling, and internship capstone |
-| [GenAI & Agentic AI](https://github.com/sujinoven/GenAI-Agentic-AI) | RAG, tool calling, AI agents, and HR assistant |
-| [NLP Projects](https://github.com/sujinoven/NLP_Projects) | Text processing, summarization, and NLP applications |
-| [Deep Learning](https://github.com/sujinoven/Deep_Learning) | Neural networks, image classification, and transfer learning |
-| [Machine Learning](https://github.com/sujinoven/Machine_Learning) | ML algorithms, clustering, and recommendations |
-| [Python Learning](https://github.com/sujinoven/Python_Learning) | Python programming, data analysis, and visualization |
-| [SQL](https://github.com/sujinoven/SQL) | Joins, subqueries, window functions, and databases |
 
-### 🌟 Featured ML Project
 
-**Content Refresh Opportunity Scoring System**
-
-Developed during my Flyrank AI internship to prioritize content optimization opportunities using supervised machine learning.
-
-**Highlights:**
-- Data preprocessing and feature engineering
-- Random Forest classification
-- Model evaluation and leakage prevention
-- Ranked content review recommendations
-
-🔗 [Explore the Project](https://github.com/sujinoven/flyrank_internship)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujinoven&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujinoven&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 🎯 Career Interests
-
-I'm actively exploring opportunities in:
-
-- Machine Learning Engineering
-- Deep Learning
-- AI Engineering
-- Data Science
-- NLP & Generative AI
-- Python Development
-
-My journey from **Microsoft 365 Administration → Python Development → AI/ML Engineering** reflects my commitment to continuous learning and solving real-world problems through technology.
-
----
 
 ## 🤝 Let's Connect
 
-I'm always open to learning, collaborating on AI/ML projects, and connecting with professionals in the AI community.
+I'm interested in opportunities involving **Machine Learning, AI Engineering, Generative AI, and Python Development**.
 
-📧 **Email:** [sujinoven02@gmail.com](mailto:sujinoven02@gmail.com)
+I'm open to collaborating, learning, and building meaningful AI solutions.
 
-💼 **LinkedIn:** [linkedin.com/in/sujinoven](https://linkedin.com/in/sujinoven)
-
-💻 **GitHub:** [github.com/sujinoven](https://github.com/sujinoven)
+📧 [Email](mailto\:sujinoven02@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/sujinoven)
 
 ---
 
-<div align="center">
-
-### "Learning, Building, and Growing — One AI Project at a Time." 🚀
-
-⭐ Thanks for visiting my profile!
-
-</div>
+*Learning, building, and growing — one project at a time.* 🚀
