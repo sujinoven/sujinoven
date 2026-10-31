@@ -101,18 +101,6 @@ I also completed a **Machine Learning Engineering internship at Flyrank AI**, ga
 ---
 
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujinoven&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujinoven&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in opportunities involving **Machine Learning, AI Engineering, Generative AI, Data Science, and Python Development**.
