@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Sujinoven J 👋
+# Hello Everyone, I'm Sujinoven J 👋
 
 ### Aspiring AI/ML Engineer | Python Developer | Generative AI Enthusiast
 
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an aspiring **AI/ML Engineer** with **4+ years of professional experience at Wipro Technologies**, where I worked in Microsoft 365 Administration, Python development, and automation.
+My background spans four-plus years in client support, Microsoft 365 administration, and Python development at Wipro, which gives me strong troubleshooting, client communication, and stakeholder collaboration skills. I’m now focused on Machine Learning and Generative AI.
 
 I'm currently focused on **Machine Learning, Deep Learning, NLP, and Generative AI**, building practical projects to strengthen my AI engineering skills.
 
@@ -52,36 +52,6 @@ I also completed a **Machine Learning Engineering internship at Flyrank AI**, ga
 | **Cloud & Tools** | Azure, AWS, Git, GitHub |
 | **Enterprise IT** | Microsoft 365, Entra ID, PowerShell |
 
----
-
-## 💼 Professional Journey
-
-### 🧠 Machine Learning Engineering Intern
-**Flyrank AI | Jul 2026 – Sep 2026**
-
-**Project: Content Refresh Opportunity Scoring System**
-
-- Developed an ML-based system to identify and rank web pages for SEO content optimization.
-- Performed data preprocessing and feature engineering using visibility, engagement, and content freshness metrics.
-- Trained a Random Forest classifier and evaluated performance against a heuristic baseline.
-- Applied data leakage prevention techniques and generated ranked recommendations for editorial review.
-
-### 🐍 Junior Python Developer
-**Wipro Technologies | Dec 2025 – Jun 2026**
-
-- Developed Python automation scripts and data-processing workflows.
-- Worked with SQL databases, debugging, and data validation.
-- Used Git for version control and collaborated on development activities.
-
-### ☁️ Microsoft 365 Administrator
-**Wipro Technologies | Dec 2021 – Nov 2025**
-
-- Managed enterprise Microsoft 365 environments.
-- Worked with Exchange Online, SharePoint, Teams, OneDrive, and Entra ID.
-- Automated administrative tasks using PowerShell.
-- Supported Microsoft 365 Copilot adoption and enterprise integrations.
-
----
 
 
 ## 🚀 Featured Projects & Repositories
