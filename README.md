@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-My background spans four-plus years in client support, Microsoft 365 administration, and Python development at Wipro, which gives me strong troubleshooting, client communication, and stakeholder collaboration skills. I’m now focused on Machine Learning and Generative AI.
+My background spans four-plus years in client support, Microsoft 365 administration, and Python development at Wipro, which gives me strong troubleshooting, client communication, and stakeholder collaboration skills.
 
 I'm currently focused on **Machine Learning, Deep Learning, NLP, and Generative AI**, building practical projects to strengthen my AI engineering skills.
 
